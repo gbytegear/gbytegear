@@ -1,13 +1,13 @@
-#  👋 Hi, I’m @gbytegear
-## Few about me...
+###  ```std::cout << "Hi, world, my name is Max\n";```
+#### ℹ️ Few about me...
 At the moment, programming is my hobby, and I work on my own projects,
 which you can see in my repositories in this GitHub profile. Initially,
 I programmed in JavaScript, but in 2019 I switched to C++ and QT. At the moment,
 I am developing my skills in programming in pure C++ with STL, Boost, FreeGLUT or SDL2
 libraries, but I also try to practice my skills in QT and JavaScript.
 
-## My programming skills
-* C++ (17)
+#### 💻 My programming skills
+##### 🤖 C++ (17):
   * Compiler: GCC/MinGw
   * Build system: Make
   * Basics
@@ -26,7 +26,15 @@ libraries, but I also try to practice my skills in QT and JavaScript.
     * Qt Quick
     * QNetwork
     * QSql(SQLite)
-* HTML5 / CSS3 / JavaScript (ES6)
+  * Now I am teaching:
+    * SDL2
+    * FreeGLUT (OpenGL)
+    * Boost
+  * ToDo:
+    * LibSSL
+    * LibCrypt 
+    * etc...
+##### 🌐 HTML5 / CSS3 / JavaScript (ES6):
   * Promises (async / await)
   * WebSql
   * HTML5 Canvas
@@ -36,8 +44,3 @@ libraries, but I also try to practice my skills in QT and JavaScript.
     * Redis
     * OAuth 2.0
     * Passport
-    
-<!---
-gbytegear/gbytegear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
