@@ -1,5 +1,4 @@
-###  ```std::cout << "Hi, world, my name is Max\n";```
-#### ℹ️ Few about me...
+#### <img src="https://avatars.githubusercontent.com/u/46775300?s=460&u=ae361bd4209da1cb9305bde21b81edd2b60f7a24&v=4" height="20px"> Few about me...
 At the moment, programming is my hobby, and I work on my own projects,
 which you can see in my repositories in this GitHub profile. Initially,
 I programmed in JavaScript, but in 2019 I switched to C++ and QT. At the moment,
