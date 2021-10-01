@@ -1,10 +1,5 @@
 #### <img src="https://avatars.githubusercontent.com/u/46775300?s=460&u=ae361bd4209da1cb9305bde21b81edd2b60f7a24&v=4" height="20px"> Few about me...
-At the moment, programming is my hobby, and I work on my own projects,
-which you can see in my repositories in this GitHub profile. Initially,
-I programmed in JavaScript, but in 2019 I switched to C++ and QT. At the moment,
-I am developing my skills in programming in C++ with STL, Boost, FreeGLUT, SDL2 or
-other libraries, but I also try to practice my skills in QT and JavaScript.
-I am currently working on a project [<img src="https://raw.githubusercontent.com/gbytegear/BinOM/page/src/img/BinOM.ico" height="20px">BinOM](https://github.com/gbytegear/BinOM)
+I am currently working on my own projects, which you can see in my repos in my GitHub profile. At the moment I am developing my C++ programming skills using STL, Qt libraries, but also trying to practice my JavaScript skills (including Node.JS). My main project is [<img src="https://raw.githubusercontent.com/gbytegear/BinOM/page/src/img/BinOM.ico" height="20px">BinOM](https://github.com/gbytegear/BinOM), a hierarchical data serialization / deserialization format implemented as a C++ library and helper applications for data editing. The goal of this project is to implement a simple and optimized way of storing and transferring hierarchical data containing both primitive variables and strings or entire files. In the future, it is planned to implement a full-fledged hierarchical database based on this format, but some developments are already available now. 
 
 #### 💻 My programming skills
 ##### 🤖 C++ (17):
