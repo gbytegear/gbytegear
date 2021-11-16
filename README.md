@@ -1,14 +1,10 @@
 #### <img src="https://avatars.githubusercontent.com/u/46775300?s=460&u=ae361bd4209da1cb9305bde21b81edd2b60f7a24&v=4" height="20px"> Few about me...
-I am currently working on my own projects, which you can see in my repos in my GitHub profile.
-At the moment I am developing my C++ programming skills using STL, Qt libraries, but also trying
-to practice my JavaScript skills (including Node.JS). My main project is [<img src="https://raw.githubusercontent.com/gbytegear/BinOM/page/src/img/BinOM.ico" height="20px">BinOM](https://github.com/gbytegear/BinOM),
-a hierarchical data serialization / deserialization format implemented as a C++ library and helper
-applications for data editing. The goal of this project is to implement a simple and optimized way
-of storing and transferring hierarchical data containing both primitive variables and strings or
-entire files. In the future, it is planned to implement a full-fledged hierarchical database based
-on this format, but some developments are already available now. 
+At the moment, programming is my hobby, and I work on my own projects, which you can see in my repositories in this GitHub profile. Initially, I programmed in JavaScript, but in 2019 I switched to C++ and QT. At the moment, I am developing my skills in programming in C++ with STL, OpenSSL, Qt or other libraries, but I also try to practice my skills in JavaScript.
 
-#### 💻 My programming skills
+#### 🗃️ My current project:
+I am currently working on a [LibreHub](https://github.com/gbytegear/LibreHub) project - [federated social network](https://en.wikipedia.org/wiki/Distributed_social_network), based on my [BinOM](https://github.com/gbytegear/BinOM) and [TcpServer](https://github.com/gbytegear/TcpServer) projects, and provided end-to-end encryption based on [ECDH](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman) and [AES512](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) algorithms with [OpenSSL](https://www.openssl.org/) library. The social network client GUI is developing using [Qt Quick](https://doc.qt.io/qt-5/qtquick-index.html). This project is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html). The motto of this project: _**Let's make social communications open and confidential, without third parties.**_
+
+#### 💻 My programming skills:
 ##### 🤖 C++ (17):
   * Compiler: GCC / MinGw
   * Build system: Make / QMake
@@ -27,19 +23,19 @@ on this format, but some developments are already available now.
     * Condition variables
     * Futures
   * Berkeley sockets (POSIX / WinSock2)
-  * Qt 5.X.X
+  * Qt 5
     * Qt Quick
     * QNetwork
     * QSql (SQLite)
-* Now I am teaching:
+* **Now I am teach**:
   * OpenSSL/LibCrypt
   * Ncurses
-* ToDo:
-  * CMake
+* **ToDo**:
+  * Build system: CMake
   * Boost
   * C++20
-  * Processes (Windows / Linux)
-  * And many other...
+  * Processes (Windows / POSIX)
+  * etc...
 ##### 🌐 HTML5 / CSS3 / JavaScript (ES6):
   * Promises (async / await)
   * WebSql
@@ -52,5 +48,5 @@ on this format, but some developments are already available now.
     * Passport
 ##### 🐧 Other
   * Git (CLI)
-  * Linux (Debian-based)
+  * Linux
     * Command shell: Bash / Fish
