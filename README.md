@@ -5,6 +5,11 @@ At the moment, programming is my hobby, and I work on my own projects, which you
 I am currently working on a [LibreHub](https://github.com/gbytegear/LibreHub) project - [federated social network](https://en.wikipedia.org/wiki/Distributed_social_network), based on my [BinOM](https://github.com/gbytegear/BinOM) and [TcpServer](https://github.com/gbytegear/TcpServer) projects, and provided end-to-end encryption based on [ECDH](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman) and [AES 256](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) algorithms with [OpenSSL](https://www.openssl.org/) library. The social network client GUI is developing using [Qt Quick](https://doc.qt.io/qt-5/qtquick-index.html). This project is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html). The motto of this project: _**Let's make social communications open and confidential, without third parties.**_
 
 #### 💻 My programming skills:
+
+<center>
+  <img src="https://github.com/gbytegear/github-stats/blob/master/generated/languages.svg"/>
+</center>
+
 ##### 🤖 C++ (17):
   * Compiler: GCC / MinGw
   * Build system: Make / QMake
