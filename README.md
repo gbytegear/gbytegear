@@ -1,4 +1,4 @@
-# <img src="https://avatars.githubusercontent.com/u/46775300?s=460&u=ae361bd4209da1cb9305bde21b81edd2b60f7a24&v=4" height="50px"> Few about me...
+# <img src="https://avatars.githubusercontent.com/u/46775300?s=460&u=ae361bd4209da1cb9305bde21b81edd2b60f7a24&v=4" height="45px"> Few about me...
 
 At the moment, programming is my hobby, and I work on my own projects, which you can see in my repositories in this GitHub profile. Initially, I programmed in JavaScript, but in 2019 I switched to C++ and QT. At the moment, I am developing my skills in programming in C++ with STL or other libraries, but I also try to practice my skills in JavaScript.
 
@@ -8,8 +8,10 @@ At the moment, programming is my hobby, and I work on my own projects, which you
 <img src="https://github.com/gbytegear/github-stats/blob/master/generated/languages.svg" height="180"/>
 </p>
 
-##### 🤖 C++ (17/20):
-* **Tools**:
+<details>
+<summary>🤖 C++ (17/20)</summary>
+
+* 🛠️ **Tools**:
   * **Compiler**:
     * GCC
     * Clang
@@ -19,7 +21,7 @@ At the moment, programming is my hobby, and I work on my own projects, which you
     * QMake
   * **Debugger**:
     * GDB
-* **Studied/Applied in practice**:
+* ✔️ **Studied/Applied in practice**:
   * **Basics**:
     * OOP
       * Basics:
@@ -52,12 +54,12 @@ At the moment, programming is my hobby, and I work on my own projects, which you
       * Qt Quick
       * QNetwork
       * QSql (SQLite)
-* **In studying process**:
+* 📖 **In studying process**:
   * C++20
   * STL/Algorithm
   * Libraries/Libseccomp (Linux specific)
   * Processes (Windows / POSIX)
-* **ToDo**:
+* 📋 **ToDo**:
   * Build system/CMake
   * Frameworks/Boost
   * Libraries/Ncurses 
@@ -68,7 +70,10 @@ At the moment, programming is my hobby, and I work on my own projects, which you
   * Libraries/SDL
   * Libraries/[Dear ImGui](https://github.com/ocornut/imgui?ysclid=l7nyhpo84h170635067)
   * etc...
-##### 🌐 HTML5 / CSS3 / JavaScript (ES6):
+</details>
+<details>
+<summary>🌐 Web-programming - HTML5 / CSS3 / JavaScript (ES6)</summary>
+ 
   * Promises (async / await)
   * WebSql
   * HTML5 Canvas
@@ -78,9 +83,12 @@ At the moment, programming is my hobby, and I work on my own projects, which you
     * Redis
     * OAuth 2.0
     * Passport
-##### 🐧 Other
-  * Git (CLI)
-  * Linux
+</details>
+<details>
+<summary>⚙️ Other</summary>
+
+  * 🔌Git (CLI)
+  * 🐧**Linux**:
     * Distributions:
       * Cent OS
       * KDE Neon
@@ -88,3 +96,4 @@ At the moment, programming is my hobby, and I work on my own projects, which you
     * Command shell:
       * Bash
       * Fish **(Current)**
+</details>
