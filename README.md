@@ -97,3 +97,32 @@ At the moment, programming is my hobby, and I work on my own projects, which you
       * Bash
       * Fish **(Current)**
 </details>
+
+# 💼 My projects:
+
+<details>
+<summary><img src="https://gbytegear.github.io/BinOM/src/img/BinOM.ico" height="20"> BinOM <b>(In process...)</b></summary>
+<b>BinOM</b>(<i><b>Bin</b>ary <b>O</b>bject <b>M</b>odel</i>) - library for working with a hierarchical data format for general purposes.
+<h3> Basic goals:</h3>
+<ul>
+<li>Development of a generic data format for building structures of any complexity</li>
+<li>Ensuring the most optimal read and data processing speed</li>
+<li>Development of tools for the most convenient work with data</li>
+</ul>
+<h3> Links:</h3>
+<ul>
+<li><a href="https://gbytegear.github.io/BinOM/"><img src="https://gbytegear.github.io/BinOM/src/img/BinOM.ico" height="20"> Site</a></li>
+<li><a href="https://github.com/gbytegear/BinOM"><img src="https://github.githubassets.com/pinned-octocat.svg" height="20"> GitHub repository</a></li>
+<li><a href="https://notabug.org/ByteGear/BinOM"><img src="https://notabug.org/img/favicon.png" height="20"> NotABug repository</a></li>
+</ul>
+</details>
+
+<details>
+<summary>TcpServer <b>(Completed)</b></summary>
+<b>TcpServer</b> - Simple Crossplatform Multi-threading TCP/IP Server for exchanging binary data packages
+<h3> Links:</h3>
+<ul>
+<li><a href="https://github.com/gbytegear/TcpServer"><img src="https://github.githubassets.com/pinned-octocat.svg" height="20"> Repository</a></li>
+<li><a href="https://notabug.org/ByteGear/TcpServer"><img src="https://notabug.org/img/favicon.png" height="20"> NotABug repository</a></li>
+</ul>
+</details>
