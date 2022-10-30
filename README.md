@@ -8,7 +8,8 @@ At the moment, programming is my hobby, and I work on my own projects, which you
 <img src="https://github.com/gbytegear/github-stats/blob/master/generated/languages.svg" height="180"/>
 </p>
 
-<details>
+<ul>
+<li><details>
 <summary>🤖 C++ (17/20)</summary>
 
 * 🛠️ **Tools**:
@@ -70,8 +71,8 @@ At the moment, programming is my hobby, and I work on my own projects, which you
   * Libraries/SDL
   * Libraries/[Dear ImGui](https://github.com/ocornut/imgui?ysclid=l7nyhpo84h170635067)
   * etc...
-</details>
-<details>
+</details></li>
+<li><details>
 <summary>🌐 Web-programming - HTML5 / CSS3 / JavaScript (ES6)</summary>
  
   * Promises (async / await)
@@ -83,8 +84,8 @@ At the moment, programming is my hobby, and I work on my own projects, which you
     * Redis
     * OAuth 2.0
     * Passport
-</details>
-<details>
+</details></li>
+<li><details>
 <summary>⚙️ Other</summary>
 
   * 🔌Git (CLI)
@@ -96,11 +97,12 @@ At the moment, programming is my hobby, and I work on my own projects, which you
     * Command shell:
       * Bash
       * Fish **(Current)**
-</details>
+</details></li>
+</ul>
 
 # 💼 My projects:
-
-<details>
+<ul>
+<li><details>
 <summary><img src="https://gbytegear.github.io/BinOM/src/img/BinOM.ico" height="20"> BinOM <b>(In process...)</b></summary>
 <b>BinOM</b>(<i><b>Bin</b>ary <b>O</b>bject <b>M</b>odel</i>) - library for working with a hierarchical data format for general purposes.
 <h3> Basic goals:</h3>
@@ -115,9 +117,8 @@ At the moment, programming is my hobby, and I work on my own projects, which you
 <li><a href="https://github.com/gbytegear/BinOM"><img src="https://github.githubassets.com/pinned-octocat.svg" height="20"> GitHub repository</a></li>
 <li><a href="https://notabug.org/ByteGear/BinOM"><img src="https://notabug.org/img/favicon.png" height="20"> NotABug repository</a></li>
 </ul>
-</details>
-
-<details>
+</details></li>
+<li><details>
 <summary>TcpServer <b>(Completed)</b></summary>
 <b>TcpServer</b> - Simple Crossplatform Multi-threading TCP/IP Server for exchanging binary data packages
 <h3> Links:</h3>
@@ -125,4 +126,5 @@ At the moment, programming is my hobby, and I work on my own projects, which you
 <li><a href="https://github.com/gbytegear/TcpServer"><img src="https://github.githubassets.com/pinned-octocat.svg" height="20"> Repository</a></li>
 <li><a href="https://notabug.org/ByteGear/TcpServer"><img src="https://notabug.org/img/favicon.png" height="20"> NotABug repository</a></li>
 </ul>
-</details>
+</details></li>
+</ul>
