@@ -1,5 +1,7 @@
 # <img src="https://avatars.githubusercontent.com/u/46775300?s=460&u=ae361bd4209da1cb9305bde21b81edd2b60f7a24&v=4" height="45px"> Few about me...
 
+[Habr Career](https://career.habr.com/gbytegear) | [LinkedIn](https://www.linkedin.com/in/gbytegear/)
+
 At the moment, programming is my hobby, and I work on my own projects, which you can see in my repositories in this GitHub profile. Initially, I programmed in JavaScript, but in 2019 I switched to C++ and QT. At the moment, I am developing my skills in programming in C++ with STL or other libraries, but I also try to practice my skills in JavaScript.
 
 # 💻 My programming skills:
