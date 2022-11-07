@@ -1,6 +1,7 @@
-# <img src="https://avatars.githubusercontent.com/u/46775300?s=460&u=ae361bd4209da1cb9305bde21b81edd2b60f7a24&v=4" height="45px"> Few about me...
+# <img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/ByteGear.png" height="35px"> Few about me...
 
-[Habr Career](https://career.habr.com/gbytegear) | [LinkedIn](https://www.linkedin.com/in/gbytegear/)
+|[<img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/habr_career.png" height="15px"> Habr Career](https://career.habr.com/gbytegear)|[<img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/linkedin.png" height="15px"> LinkedIn](https://www.linkedin.com/in/gbytegear/)|[Mail](mailto:bytegear@ya.ru)|
+|-|-|-|
 
 At the moment, programming is my hobby, and I work on my own projects, which you can see in my repositories in this GitHub profile. Initially, I programmed in JavaScript, but in 2019 I switched to C++ and QT. At the moment, I am developing my skills in programming in C++ with STL or other libraries, but I also try to practice my skills in JavaScript.
 
@@ -115,9 +116,9 @@ At the moment, programming is my hobby, and I work on my own projects, which you
 </ul>
 <h3> Links:</h3>
 <ul>
-<li><a href="https://gbytegear.github.io/BinOM/"><img src="https://gbytegear.github.io/BinOM/src/img/BinOM.ico" height="20"> Site</a></li>
-<li><a href="https://github.com/gbytegear/BinOM"><img src="https://github.githubassets.com/pinned-octocat.svg" height="20"> GitHub repository</a></li>
-<li><a href="https://notabug.org/ByteGear/BinOM"><img src="https://notabug.org/img/favicon.png" height="20"> NotABug repository</a></li>
+<li><a href="https://gbytegear.github.io/BinOM/"><img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/BinOM.ico" height="20"> Site</a></li>
+<li><a href="https://github.com/gbytegear/BinOM"><img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/github.webp" height="20"> GitHub repository</a></li>
+<li><a href="https://notabug.org/ByteGear/BinOM"><img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/not_a_bug_org.png" height="20"> NotABug repository</a></li>
 </ul>
 </details></li>
 <li><details>
@@ -125,8 +126,8 @@ At the moment, programming is my hobby, and I work on my own projects, which you
 <b>TcpServer</b> - Simple Crossplatform Multi-threading TCP/IP Server for exchanging binary data packages
 <h3> Links:</h3>
 <ul>
-<li><a href="https://github.com/gbytegear/TcpServer"><img src="https://github.githubassets.com/pinned-octocat.svg" height="20"> Repository</a></li>
-<li><a href="https://notabug.org/ByteGear/TcpServer"><img src="https://notabug.org/img/favicon.png" height="20"> NotABug repository</a></li>
+<li><a href="https://github.com/gbytegear/TcpServer"><img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/github.webp" height="20"> Repository</a></li>
+<li><a href="https://notabug.org/ByteGear/TcpServer"><img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/not_a_bug_org.png" height="20"> NotABug repository</a></li>
 </ul>
 </details></li>
 </ul>
