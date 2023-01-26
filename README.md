@@ -22,6 +22,7 @@ At the moment, programming is my hobby, and I work on my own projects, which you
     * MinGw
   * **Build system**:
     * Make
+    * CMake
     * QMake
   * **Debugger**:
     * GDB
@@ -37,6 +38,8 @@ At the moment, programming is my hobby, and I work on my own projects, which you
       * Methods/Operators overload
     * Templates (metaprogramming)
       * Type traits
+      * Concepts/Requires
+      * CRTP (curiously recurring template pattern)
   * **STL**:
     * Containers
       * Iterators
@@ -64,7 +67,6 @@ At the moment, programming is my hobby, and I work on my own projects, which you
   * Libraries/Libseccomp (Linux specific)
   * Processes (Windows / POSIX)
 * 📋 **ToDo**:
-  * Build system/CMake
   * Frameworks/Boost
   * Libraries/Ncurses 
     * Libraries/PDcurses (Windows)
