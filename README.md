@@ -151,6 +151,7 @@ At the moment, programming is my hobby, and I work on my own projects, which you
             <h3> Links:</h3>
             <ul>
               <li><a href="https://github.com/gbytegear/libpmmf"><img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/github.webp" height="20"> Repository</a></li>
+              <li><a href="https://notabug.org/ByteGear/libpmmf"><img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/not_a_bug_org.png" height="20"> NotABug repository</a></li>
             </ul>
           </details>
         </li>
