@@ -7,8 +7,8 @@ At the moment, programming is my hobby, and I work on my own projects, which you
 
 # 💻 My programming skills:
 <p float="left">
-<img src="https://github.com/gbytegear/github-stats/blob/master/generated/overview.svg" height="180"/>
-<img src="https://github.com/gbytegear/github-stats/blob/master/generated/languages.svg" height="180"/>
+<img src="https://raw.githubusercontent.com/gbytegear/github-stats/master/generated/overview.svg" height="180"/>
+<img src="https://raw.githubusercontent.com/gbytegear/github-stats/master/generated/languages.svg" height="180"/>
 </p>
 
 <ul>
