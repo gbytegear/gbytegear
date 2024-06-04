@@ -1,3 +1,5 @@
+***I have moved my main account to [GitFlick](https://gitflic.ru/). Projects in this account's repositories will not be supported. The latest versions of my projects can be found in the repositories of my [Gitflick account](https://gitflic.ru/user/gbytegear).***
+
 # <img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/ByteGear.png" height="35px"> Few about me...
 
 |[<img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/habr_career.png" height="15px"> Habr Career](https://career.habr.com/gbytegear)|[<img src="https://raw.githubusercontent.com/gbytegear/gbytegear/main/icons/linkedin.png" height="15px"> LinkedIn](https://www.linkedin.com/in/gbytegear/)|[Mail](mailto:bytegear@ya.ru)|
